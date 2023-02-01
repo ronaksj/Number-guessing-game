@@ -1,1 +1,2 @@
-# Number-guessing-game
+# Number Guessing Game
+This is a simple number guessing game where the system will generate a random number from 1 to 100. User need to guess a number between 1 to 100.For that user will get 5 chances as limit I mentioned.Computer tells if the guess number matches or it is higher or lesser than the actual number.variable tries will increase as guessed number is wrong.This game continues until the user guesses the computer number.
